@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Shopping.API.Data;
 using Shopping.API.Models;
 
 namespace Shopping.API.Controllers
@@ -16,15 +17,7 @@ namespace Shopping.API.Controllers
         [HttpGet]
         public IEnumerable<Product> Get()
         {
-            return  Enumerable.Range(1, 5).Select(x => new Product
-            {
-                Id= x.ToString(),
-                Name = "asd",
-                Category = "category 1",
-                Description = x.ToString(),
-                Price=x * 100
-                
-            }).ToArray();
+            return ProductContext.Products;
         }
     }
 }
