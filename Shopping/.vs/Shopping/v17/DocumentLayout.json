@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E12D3CC8-3555-4EBF-92D8-ACF1B0D2F049}|Shopping.Client\\Shopping.Client.csproj|d:\\workspace\\source\\repos\\run-devopsv2\\shopping\\shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12D3CC8-3555-4EBF-92D8-ACF1B0D2F049}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12D3CC8-3555-4EBF-92D8-ACF1B0D2F049}|Shopping.Client\\Shopping.Client.csproj|d:\\workspace\\source\\repos\\run-devopsv2\\shopping\\shopping.client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12D3CC8-3555-4EBF-92D8-ACF1B0D2F049}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12D3CC8-3555-4EBF-92D8-ACF1B0D2F049}|Shopping.Client\\Shopping.Client.csproj|d:\\workspace\\source\\repos\\run-devopsv2\\shopping\\shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12D3CC8-3555-4EBF-92D8-ACF1B0D2F049}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,43 +20,8 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Shopping.Client\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Shopping.Client\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:46:48.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductContext.cs",
-              "DocumentMoniker": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\Shopping.Client\\Data\\ProductContext.cs",
-              "RelativeDocumentMoniker": "Shopping.Client\\Data\\ProductContext.cs",
-              "ToolTip": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\Shopping.Client\\Data\\ProductContext.cs",
-              "RelativeToolTip": "Shopping.Client\\Data\\ProductContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:32:45.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\Shopping.Client\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Shopping.Client\\Models\\Product.cs",
-              "ToolTip": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\Shopping.Client\\Models\\Product.cs",
-              "RelativeToolTip": "Shopping.Client\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:26:07.739Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             }
           ]
         }
