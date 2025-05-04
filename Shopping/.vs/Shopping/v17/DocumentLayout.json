@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E12D3CC8-3555-4EBF-92D8-ACF1B0D2F049}|Shopping.Client\\Shopping.Client.csproj|d:\\workspace\\source\\repos\\run-devopsv2\\shopping\\shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E12D3CC8-3555-4EBF-92D8-ACF1B0D2F049}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Shopping.Client\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Workspace\\Source\\Repos\\run-devopsv2\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Shopping.Client\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T19:12:45.383Z",
-              "EditorCaption": ""
             }
           ]
         }
