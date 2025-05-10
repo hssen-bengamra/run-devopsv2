@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "Shopping.API\\Shopping.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Shopping.Client\\Shopping.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
