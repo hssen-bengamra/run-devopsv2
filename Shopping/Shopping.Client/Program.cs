@@ -3,8 +3,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Configuration de HttpClient via IHttpClientFactory
 builder.Services.AddHttpClient("ShoppingAPIClient", client =>
 {
-    client.BaseAddress = new Uri("http://localhost:5000/");
-    client.DefaultRequestHeaders.Add("Accept", "application/json");
+    client.BaseAddress = new Uri(builder.Configuration.GetValue<string>("ShoppingAPIUrl") ?? "");
 });
 
 // Add services to the container.
@@ -17,6 +16,7 @@ if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
 }
+
 app.UseStaticFiles();
 
 app.UseRouting();
